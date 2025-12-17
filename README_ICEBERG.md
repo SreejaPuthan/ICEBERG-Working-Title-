@@ -1,4 +1,4 @@
-# ICEBERG – Live CVE Intelligence Feed
+# ICEBERG – Intelligent CVE Enrichment with Breach & Exploit Risk Grading (Updated every 6 hrs)
 
 _Last updated: Manual initialization_
 
