@@ -1,42 +1,41 @@
-# ICEBERG – Automated CVE Intelligence
+# 🧊 ICEBERG – Automated CVE, Exploit & Risk Intelligence
 
-ICEBERG is an automated vulnerability intelligence pipeline that correlates:
+ICEBERG is an automated threat intelligence pipeline that continuously tracks
+new and updated CVEs, correlates exploit availability, and produces Threat Intel space to work on security advisories.
 
-- National Vulnerability Database (NVD)
-- CISA Known Exploited Vulnerabilities (KEV)
-- Exploit-DB
-- GitHub Proof-of-Concept signals
+## 🔍 What ICEBERG Does
+- Pulls **new & updated CVEs** from NVD
+- Identifies **actively exploited vulnerabilities** (CISA KEV)
+- Detects **public exploit availability** (Exploit-DB, GitHub)
+- Classifies CVEs by **risk & exploitability**
+- Generates **advisory-style comprised reports**
+- Auto-updates every **6 hours via GitHub Actions**
 
-The objective is to prioritize **real-world exploitable risk**, not just CVSS scores.
+## 📄 Live Advisory Output
+➡️ **[Latest ICEBERG Threat Advisory](README_ICEBERG.md)**  
+(Automatically updated every 6 hours)
 
----
-
-## 🔄 Automation
-
-- Runs automatically using GitHub Actions
-- Designed for continuous vulnerability monitoring
-
----
-
-## 📊 Live CVE Intelligence
-
-➡️ The latest vulnerability intelligence output is available in:
-
-**README_ICEBERG.md**
-
-(This file is auto-updated by automation.)
-
----
-
-## 🎯 Use Cases
-
+## 🧠 Use Cases
 - Vulnerability Management
 - Threat Intelligence
-- Risk-based patch prioritization
-- Security advisories
+- Security Advisory Automation
+- GRC & Risk Prioritization
 
----
+## ⚙️ Tech Stack
+- Python 3.10
+- NVD CVE API
+- CISA KEV Catalog
+- Exploit-DB (local cache)
+- GitHub Search API
+- GitHub Actions (Automation)
 
-## ⚠️ Disclaimer
+## 🔐 Security & API Keys
+All API keys are handled securely using GitHub Secrets.  
+No credentials are hardcoded.
 
-This project is for security research purposes focussing mainly to create a threat intelligence feed and primarily to prioritize the Security advisory process.
+## 📜 License
+MIT License
+
+## 👤 Author
+Built by **Puthan Sreeja**  
+(Security & Vulnerability Management Professional)
