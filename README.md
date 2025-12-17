@@ -3,6 +3,9 @@
 ICEBERG is an automated threat intelligence pipeline that continuously tracks
 new and updated CVEs, correlates exploit availability, and produces Threat Intel space to work on security advisories.
 
+![ICEBERG Automation](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/iceberg.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## 🔍 What ICEBERG Does
 - Pulls **new & updated CVEs** from NVD
 - Identifies **actively exploited vulnerabilities** (CISA KEV)
