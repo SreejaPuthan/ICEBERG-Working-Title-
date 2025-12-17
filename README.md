@@ -1,4 +1,4 @@
-# 🧊 ICEBERG – Automated CVE, Exploit & Risk Intelligence
+# 🧊 ICEBERG – Indicators, CVEs & Exploitation Behavior Engine for Risk Groups
 
 ICEBERG is an automated threat intelligence pipeline that continuously tracks
 new and updated CVEs, correlates exploit availability, and produces Threat Intel space to work on security advisories.
