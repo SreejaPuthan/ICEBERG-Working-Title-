@@ -3,7 +3,7 @@ name: ICEBERG – Automated CVE Intelligence
 on:
   schedule:
     - cron: "0 */6 * * *"   # Every 6 hours
-  workflow_dispatch:        # Allow manual run
+  workflow_dispatch:        # Manual trigger
 
 permissions:
   contents: write
@@ -33,19 +33,10 @@ jobs:
         run: |
           python step3_merge_intel.py
 
-      - name: Commit updated README
+      - name: Commit updated advisory
         run: |
           git config user.name "iceberg-bot"
           git config user.email "iceberg-bot@users.noreply.github.com"
           git add README_ICEBERG.md
-          git commit -m "🔄 Update ICEBERG CVE intelligence" || echo "No changes"
+          git commit -m "🔄 Automated ICEBERG CVE advisory update" || echo "No changes to commit"
           git push
-
-        - name: Commit updated advisory
-          run: |
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add README_ICEBERG.md
-            git commit -m "Automated ICEBERG advisory update" || echo "No changes to commit"
-            git push
-
