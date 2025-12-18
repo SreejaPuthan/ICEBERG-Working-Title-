@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-18 02:07:50
+**Last Updated (UTC):** 2025-12-18 06:43:51
 
 _Auto-generated. Do not edit manually._
 
@@ -32,9 +32,31 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-56124 | 7.8 | HIGH | ruijie | rg-ew1200 | - | LOCAL | LOW | NA | UPDATED (2025-12-18T02:12:00.720) |
+| CVE-2025-56127 | 8.8 | HIGH | ruijie | rg-bcr600w | - | NETWORK | LOW | NA | UPDATED (2025-12-18T02:08:53.590) |
+| CVE-2025-14584 | 7.3 | HIGH | angeljudesuarez | covid_tracking_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:34:42.373) |
+| CVE-2025-14585 | 7.3 | HIGH | angeljudesuarez | covid_tracking_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:33:46.080) |
+| CVE-2025-14587 | 7.3 | HIGH | facebook-riares | online_pet_shop_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:30:39.567) |
+| CVE-2025-14588 | 7.3 | HIGH | angeljudesuarez | student_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:29:49.597) |
+| CVE-2025-14637 | 7.3 | HIGH | facebook-riares | online_pet_shop_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:24:37.097) |
+| CVE-2025-14638 | 7.3 | HIGH | facebook-riares | online_pet_shop_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:23:21.617) |
+| CVE-2025-14643 | 7.3 | HIGH | fabian | simple_attendance_record_system | 2.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:19:47.393) |
+| CVE-2025-14644 | 7.3 | HIGH | angeljudesuarez | student_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:18:44.103) |
 | CVE-2025-14022 | 7.7 | HIGH | linecorp | line | * | NETWORK | HIGH | NA | UPDATED (2025-12-18T01:59:10.313) |
 | CVE-2025-65778 | 8.1 | HIGH | wekan_project | wekan | * | NETWORK | LOW | NA | UPDATED (2025-12-18T01:44:38.580) |
 | CVE-2025-65779 | 7.5 | HIGH | wekan_project | wekan | * | NETWORK | LOW | NA | UPDATED (2025-12-18T01:39:30.143) |
 | CVE-2025-65780 | 8.8 | HIGH | wekan_project | wekan | * | NETWORK | LOW | NA | UPDATED (2025-12-18T01:37:10.793) |
 | CVE-2025-65781 | 8.2 | HIGH | wekan_project | wekan | * | NETWORK | LOW | NA | UPDATED (2025-12-18T01:35:29.167) |
+| CVE-2025-68460 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-18T05:15:52.737) |
+| CVE-2025-68461 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-18T05:15:56.623) |
+| CVE-2025-27063 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:47.747) |
+| CVE-2025-47320 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:48.130) |
+| CVE-2025-47321 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:48.303) |
+| CVE-2025-47322 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:48.563) |
+| CVE-2025-47323 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:48.730) |
+| CVE-2025-47350 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:49.063) |
+| CVE-2025-47372 | 9.0 | CRITICAL | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:49.227) |
+| CVE-2025-47382 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:49.387) |
+| CVE-2025-47387 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-18T06:15:49.553) |
+| CVE-2025-68459 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-18T06:15:49.717) |
 
