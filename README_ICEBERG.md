@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-22 02:23:01
+**Last Updated (UTC):** 2025-12-22 06:46:38
 
 _Auto-generated. Do not edit manually._
 
@@ -17,4 +17,10 @@ _Auto-generated. Do not edit manually._
 | CVE-2021-32837 | 7.5 | HIGH | mechanize_project | mechanize | * | NETWORK | LOW | NA | UPDATED (2025-12-22T02:16:01.123) |
 | CVE-2025-15006 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T02:16:01.343) |
 | CVE-2025-15007 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T02:16:01.560) |
+| CVE-2025-15008 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T03:15:47.077) |
+| CVE-2025-15010 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T04:16:00.167) |
+| CVE-2025-15011 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T04:16:00.367) |
+| CVE-2025-15015 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T04:16:00.550) |
+| CVE-2025-15016 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T04:16:00.720) |
+| CVE-2025-15012 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-22T05:16:19.460) |
 
