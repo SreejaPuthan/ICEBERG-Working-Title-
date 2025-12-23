@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-23 06:45:34
+**Last Updated (UTC):** 2025-12-23 12:59:42
 
 _Auto-generated. Do not edit manually._
 
@@ -8,8 +8,10 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2023-52163 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | OLD (2025-12-22T23:15:46.230) |
+| CVE-2024-4761 | 8.8 | HIGH | fedoraproject | fedora | 38 | NETWORK | LOW | NA | UPDATED (2025-12-23T11:35:18.717) |
+| CVE-2023-52163 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-23T12:15:44.160) |
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2025-12-16T02:00:02.520) |
+| CVE-2025-14733 | 9.8 | CRITICAL | watchguard | firebox_t115-w | * | NETWORK | LOW | NA | UPDATED (2025-12-23T11:34:46.317) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
@@ -32,7 +34,17 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-65883 | 8.4 | HIGH | genexis | platinum_4410 | - | LOCAL | LOW | NA | UPDATED (2025-12-23T00:22:22.200) |
 | CVE-2025-55948 | 7.3 | HIGH | yzcheng90 | x-springboot | 6.0 | NETWORK | LOW | NA | UPDATED (2025-12-23T00:19:47.190) |
 | CVE-2025-66573 | 7.5 | HIGH | mersive | solstice_pod | - | NETWORK | LOW | NA | UPDATED (2025-12-23T00:09:25.047) |
+| CVE-2025-37164 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-23T12:15:45.053) |
 | CVE-2025-63662 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-23T01:15:42.860) |
 | CVE-2025-68615 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T00:15:43.830) |
 | CVE-2025-15034 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T01:15:41.873) |
+| CVE-2025-12934 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T10:15:42.953) |
+| CVE-2025-14388 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T10:15:43.673) |
+| CVE-2024-24844 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T12:15:44.557) |
+| CVE-2025-59886 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T12:15:45.170) |
+| CVE-2025-68544 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2025-12-23T12:15:45.313) |
+| CVE-2025-68546 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2025-12-23T12:15:45.457) |
+| CVE-2025-68550 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T12:15:45.737) |
+| CVE-2025-68560 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2025-12-23T12:15:46.430) |
+| CVE-2025-68561 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-23T12:15:46.567) |
 
