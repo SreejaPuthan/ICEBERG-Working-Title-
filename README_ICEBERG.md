@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-24 06:45:21
+**Last Updated (UTC):** 2025-12-24 12:57:22
 
 _Auto-generated. Do not edit manually._
 
@@ -8,6 +8,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2023-52163 | 8.8 | HIGH | digiever | ds-2105_pro\+ | - | NETWORK | LOW | NA | UPDATED (2025-12-24T11:36:59.630) |
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2025-12-16T02:00:02.520) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
