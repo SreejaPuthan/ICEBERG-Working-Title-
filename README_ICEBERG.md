@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-30 06:43:57
+**Last Updated (UTC):** 2025-12-30 13:00:03
 
 _Auto-generated. Do not edit manually._
 
@@ -15,6 +15,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2023-36377 | 7.8 | HIGH | osslsigncode_project | osslsigncode | 2.3 | LOCAL | LOW | NA | UPDATED (2025-12-30T08:15:42.540) |
 | CVE-2025-23458 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T00:15:51.447) |
 | CVE-2025-23469 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T00:15:51.597) |
 | CVE-2025-23550 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T00:15:51.747) |
@@ -25,4 +26,16 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-15216 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T03:15:51.707) |
 | CVE-2025-15217 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T03:15:51.887) |
 | CVE-2025-15218 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T04:15:49.267) |
+| CVE-2025-15230 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T07:15:41.793) |
+| CVE-2025-15231 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T07:15:43.380) |
+| CVE-2025-15232 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T08:15:43.040) |
+| CVE-2025-15233 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T08:15:43.300) |
+| CVE-2025-15102 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T09:15:52.157) |
+| CVE-2025-15103 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2025-12-30T09:15:52.463) |
+| CVE-2025-15234 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T09:15:52.597) |
+| CVE-2025-15358 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T09:15:52.997) |
+| CVE-2025-15243 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T10:15:52.137) |
+| CVE-2025-15359 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T10:15:52.333) |
+| CVE-2025-14509 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T12:15:44.743) |
+| CVE-2025-15247 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-30T12:15:45.110) |
 
