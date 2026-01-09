@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-09 06:46:42
+**Last Updated (UTC):** 2026-01-09 13:01:31
 
 _Auto-generated. Do not edit manually._
 
@@ -24,6 +24,9 @@ _Auto-generated. Do not edit manually._
 | CVE-2024-37471 | 7.1 | HIGH | xtendify | woffice | * | NETWORK | LOW | NA | UPDATED (2026-01-09T02:35:27.707) |
 | CVE-2024-37472 | 7.1 | HIGH | xtendify | woffice | * | NETWORK | LOW | NA | UPDATED (2026-01-09T02:35:41.973) |
 | CVE-2024-7587 | 7.8 | HIGH | iconics | genesis64 | * | LOCAL | LOW | NA | UPDATED (2026-01-09T06:16:00.773) |
+| CVE-2024-8299 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-01-09T08:15:55.177) |
+| CVE-2024-8300 | 7.0 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | UPDATED (2026-01-09T08:15:56.253) |
+| CVE-2024-9852 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-01-09T08:15:56.383) |
 | CVE-2025-10371 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-09T01:15:42.407) |
 | CVE-2025-11093 | 8.4 | HIGH | wso2 | api_control_plane | * | ADJACENT_NETWORK | LOW | NA | UPDATED (2026-01-09T02:33:37.070) |
 | CVE-2025-64055 | 9.8 | CRITICAL | fanvil | x210 | 2.0 | NETWORK | LOW | NA | UPDATED (2026-01-09T02:18:23.843) |
@@ -37,4 +40,20 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-15068 | 7.7 | HIGH | gmission | web_fax | * | LOCAL | LOW | NA | UPDATED (2026-01-09T00:15:43.773) |
 | CVE-2025-15069 | 7.1 | HIGH | gmission | web_fax | * | LOCAL | LOW | NA | UPDATED (2026-01-09T00:15:44.713) |
 | CVE-2026-0719 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-09T06:16:01.187) |
+| CVE-2025-14736 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T07:16:01.333) |
+| CVE-2025-15055 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T07:16:02.313) |
+| CVE-2025-15057 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T07:16:02.483) |
+| CVE-2025-70974 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T07:16:02.677) |
+| CVE-2025-14657 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T08:15:57.487) |
+| CVE-2025-14741 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T08:15:57.660) |
+| CVE-2025-14937 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T08:15:57.813) |
+| CVE-2025-69194 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T08:15:57.980) |
+| CVE-2025-69195 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T08:15:58.147) |
+| CVE-2025-13761 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-09T10:15:45.280) |
+| CVE-2025-13772 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:45.450) |
+| CVE-2025-64090 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:46.480) |
+| CVE-2025-64091 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:46.627) |
+| CVE-2025-64092 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:46.750) |
+| CVE-2025-64093 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:46.890) |
+| CVE-2025-9222 | 8.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-09T10:15:47.037) |
 
