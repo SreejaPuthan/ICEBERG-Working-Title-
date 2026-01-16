@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-16 06:46:06
+**Last Updated (UTC):** 2026-01-16 13:01:21
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-25249 | 8.1 | HIGH | fortinet | fortisase | 25.1.39 | NETWORK | HIGH | NA | UPDATED (2026-01-16T09:16:01.640) |
 | CVE-2026-1008 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-16T00:16:28.890) |
 | CVE-2020-36926 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T00:16:18.820) |
 | CVE-2020-36927 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-16T00:16:19.953) |
@@ -74,4 +75,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-1023 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T04:15:49.320) |
 | CVE-2025-12957 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T05:16:08.300) |
 | CVE-2026-0975 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-16T06:15:51.187) |
+| CVE-2025-12006 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T09:15:58.510) |
+| CVE-2025-12007 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T09:15:59.520) |
+| CVE-2025-14844 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-16T10:16:04.330) |
+| CVE-2025-59870 | 7.4 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-16T11:16:02.660) |
 
