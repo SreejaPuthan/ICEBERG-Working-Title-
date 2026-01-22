@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-22 02:27:03
+**Last Updated (UTC):** 2026-01-22 06:47:53
 
 _Auto-generated. Do not edit manually._
 
@@ -15,8 +15,23 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-5914 | 7.8 | HIGH | redhat | openshift_container_platform | 4.0 | LOCAL | LOW | NA | UPDATED (2026-01-22T05:16:16.150) |
+| CVE-2025-49794 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-22T05:16:11.147) |
+| CVE-2025-49796 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-22T05:16:11.380) |
+| CVE-2025-6020 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-01-22T05:16:17.213) |
+| CVE-2025-7425 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | UPDATED (2026-01-22T05:16:19.960) |
+| CVE-2025-67084 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-22T04:15:58.863) |
 | CVE-2025-27378 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T01:15:51.077) |
 | CVE-2025-27380 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T02:15:51.310) |
 | CVE-2026-23956 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T02:15:52.310) |
 | CVE-2026-23957 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T02:15:52.470) |
+| CVE-2026-23962 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T03:15:46.400) |
+| CVE-2026-23965 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T03:15:46.860) |
+| CVE-2026-23966 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T03:15:47.007) |
+| CVE-2026-23967 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T03:15:47.167) |
+| CVE-2026-24002 | 9.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-22T03:15:47.777) |
+| CVE-2026-24006 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T03:15:47.933) |
+| CVE-2026-24038 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T04:15:59.890) |
+| CVE-2026-24042 | 9.4 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-22T04:16:00.187) |
+| CVE-2026-24049 | 7.1 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-22T05:16:23.157) |
 
