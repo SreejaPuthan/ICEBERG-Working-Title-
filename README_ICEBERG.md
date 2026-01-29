@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-29 07:00:02
+**Last Updated (UTC):** 2026-01-29 13:15:31
 
 _Auto-generated. Do not edit manually._
 
@@ -9,16 +9,22 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-01-27T02:00:01.893) |
+| CVE-2026-24858 | 9.8 | CRITICAL | fortinet | fortianalyzer | * | NETWORK | LOW | NA | UPDATED (2026-01-29T10:15:52.663) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-4447 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-29T11:15:51.607) |
 | CVE-2024-52807 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-29T00:16:05.990) |
 | CVE-2025-1555 | 7.3 | HIGH | hzmanyun | education_and_training_system | 3.1.1 | NETWORK | LOW | NA | UPDATED (2026-01-29T02:12:22.003) |
 | CVE-2024-1509 | 9.1 | CRITICAL | brocade | active_support_connectivity_gateway | * | NETWORK | LOW | NA | UPDATED (2026-01-29T02:08:25.857) |
 | CVE-2025-25948 | 9.1 | CRITICAL | academiaerp | student_information_system | eagler-1.0.118 | NETWORK | LOW | NA | UPDATED (2026-01-29T02:05:39.790) |
 | CVE-2025-10213 | 7.8 | HIGH | updf | updf | 1.8.5.0 | LOCAL | LOW | NA | UPDATED (2026-01-29T01:50:08.670) |
+| CVE-2025-14523 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-29T12:16:29.783) |
+| CVE-2025-15427 | 7.3 | HIGH | seeyon | oa_web_application_system | 1.0 | NETWORK | LOW | NA | UPDATED (2026-01-29T10:15:51.830) |
+| CVE-2025-15446 | 7.3 | HIGH | seeyon | oa_web_application_system | 1.0 | NETWORK | LOW | NA | UPDATED (2026-01-29T10:15:52.097) |
+| CVE-2025-15447 | 7.3 | HIGH | seeyon | oa_web_application_system | 1.0 | NETWORK | LOW | NA | UPDATED (2026-01-29T10:15:52.260) |
 | CVE-2025-59379 | 7.5 | HIGH | dwyeromega | isensix_advanced_remote_monitoring_system | - | NETWORK | LOW | NA | UPDATED (2026-01-29T01:41:41.610) |
 | CVE-2025-60262 | 9.8 | CRITICAL | h3c | magic_ba1500l | - | NETWORK | LOW | NA | UPDATED (2026-01-29T01:36:21.693) |
 | CVE-2025-65212 | 9.8 | CRITICAL | njhyst | hy511 | - | NETWORK | LOW | NA | UPDATED (2026-01-29T01:31:03.130) |
@@ -68,4 +74,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-69097 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | UPDATED (2026-01-29T01:16:08.963) |
 | CVE-2025-69100 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | UPDATED (2026-01-29T00:16:08.117) |
 | CVE-2025-69102 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-29T00:16:08.280) |
+| CVE-2026-24428 | 8.8 | HIGH | tenda | w30e | 2.0 | NETWORK | LOW | NA | UPDATED (2026-01-29T13:02:04.990) |
+| CVE-2026-24429 | 9.8 | CRITICAL | tenda | w30e | - | NETWORK | LOW | NA | UPDATED (2026-01-29T13:01:22.300) |
+| CVE-2025-7016 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-29T12:16:30.213) |
 
