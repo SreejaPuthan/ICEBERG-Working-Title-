@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-20 07:06:34
+**Last Updated (UTC):** 2026-02-20 13:16:27
 
 _Auto-generated. Do not edit manually._
 
@@ -16,6 +16,8 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-26736 | 8.8 | HIGH | totolink | a3002ru-v3 | * | NETWORK | LOW | NA | UPDATED (2026-02-20T13:11:42.180) |
+| CVE-2026-2629 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-02-20T08:17:03.300) |
 | CVE-2026-26959 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-02-20T00:16:16.000) |
 | CVE-2026-26975 | 8.8 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | LOW | NA | NEW (2026-02-20T01:16:00.273) |
 | CVE-2026-26960 | 7.1 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-02-20T02:16:53.883) |
@@ -23,4 +25,5 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-26990 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-20T02:16:54.870) |
 | CVE-2026-2820 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-20T02:16:55.593) |
 | CVE-2026-2821 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-20T03:16:02.137) |
+| CVE-2025-10970 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-20T12:16:14.530) |
 
