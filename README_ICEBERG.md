@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-27 07:04:20
+**Last Updated (UTC):** 2026-02-27 13:16:21
 
 _Auto-generated. Do not edit manually._
 
@@ -17,6 +17,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2024-34193 | 7.5 | HIGH | lkw199711 | smanga | 3.2.7 | NETWORK | LOW | NA | UPDATED (2026-02-27T03:37:07.987) |
 | CVE-2025-53786 | 8.0 | HIGH | microsoft | exchange_server | - | NETWORK | HIGH | NA | UPDATED (2026-02-27T03:38:01.227) |
 | CVE-2021-47779 | 7.2 | HIGH | dolibarr | dolibarr_erp\/crm | 14.0.2 | NETWORK | LOW | NA | UPDATED (2026-02-27T03:52:46.580) |
+| CVE-2025-55210 | 7.5 | HIGH | sangoma | freepbx | * | NETWORK | HIGH | NA | UPDATED (2026-02-27T13:05:46.890) |
 | CVE-2026-26342 | 9.8 | CRITICAL | tattile | anpr_mobile | - | NETWORK | LOW | NA | UPDATED (2026-02-27T03:10:51.703) |
 | CVE-2026-3105 | 7.6 | HIGH | acquia | mautic | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:11:21.447) |
 | CVE-2026-21410 | 9.8 | CRITICAL | insat | masterscada | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:13:28.340) |
@@ -76,4 +77,10 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-28370 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T05:18:20.757) |
 | CVE-2026-28372 | 7.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-02-27T06:18:00.077) |
 | CVE-2026-3301 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T06:18:00.480) |
+| CVE-2025-12981 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T07:17:09.300) |
+| CVE-2026-0980 | 8.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T08:17:09.647) |
+| CVE-2026-2251 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T09:16:16.950) |
+| CVE-2026-2252 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T09:16:17.130) |
+| CVE-2025-11251 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T12:16:01.783) |
+| CVE-2025-11252 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T13:16:01.343) |
 
