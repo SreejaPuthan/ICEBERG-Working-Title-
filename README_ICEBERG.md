@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-27 02:44:26
+**Last Updated (UTC):** 2026-02-27 07:04:20
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,17 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-34193 | 7.5 | HIGH | lkw199711 | smanga | 3.2.7 | NETWORK | LOW | NA | UPDATED (2026-02-27T03:37:07.987) |
+| CVE-2025-53786 | 8.0 | HIGH | microsoft | exchange_server | - | NETWORK | HIGH | NA | UPDATED (2026-02-27T03:38:01.227) |
+| CVE-2021-47779 | 7.2 | HIGH | dolibarr | dolibarr_erp\/crm | 14.0.2 | NETWORK | LOW | NA | UPDATED (2026-02-27T03:52:46.580) |
+| CVE-2026-26342 | 9.8 | CRITICAL | tattile | anpr_mobile | - | NETWORK | LOW | NA | UPDATED (2026-02-27T03:10:51.703) |
+| CVE-2026-3105 | 7.6 | HIGH | acquia | mautic | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:11:21.447) |
+| CVE-2026-21410 | 9.8 | CRITICAL | insat | masterscada | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:13:28.340) |
+| CVE-2026-22553 | 9.8 | CRITICAL | insat | masterscada | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:15:54.487) |
+| CVE-2026-25882 | 7.5 | HIGH | gofiber | fiber | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:18:05.253) |
+| CVE-2026-25891 | 7.5 | HIGH | gofiber | fiber | * | NETWORK | LOW | NA | UPDATED (2026-02-27T03:18:58.503) |
+| CVE-2026-26103 | 7.1 | HIGH | freedesktop | udisks | 2.0.0 | LOCAL | LOW | NA | UPDATED (2026-02-27T03:26:30.660) |
+| CVE-2026-0704 | 9.1 | CRITICAL | linux | linux_kernel | - | NETWORK | LOW | NA | UPDATED (2026-02-27T03:29:23.870) |
 | CVE-2026-20781 | 9.4 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T00:16:55.807) |
 | CVE-2026-20792 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T00:16:56.180) |
 | CVE-2026-20895 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T00:16:56.350) |
@@ -58,4 +69,11 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-3037 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-02-27T02:16:20.330) |
 | CVE-2026-3274 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T02:16:20.533) |
 | CVE-2026-3275 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T02:16:20.747) |
+| CVE-2026-28363 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T04:16:03.227) |
+| CVE-2026-28364 | 7.9 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-02-27T04:16:03.410) |
+| CVE-2026-2428 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T04:16:03.600) |
+| CVE-2026-1442 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-02-27T05:18:18.713) |
+| CVE-2026-28370 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T05:18:20.757) |
+| CVE-2026-28372 | 7.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-02-27T06:18:00.077) |
+| CVE-2026-3301 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-27T06:18:00.480) |
 
