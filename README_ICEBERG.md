@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-28 06:51:39
+**Last Updated (UTC):** 2026-02-28 13:01:54
 
 _Auto-generated. Do not edit manually._
 
@@ -57,4 +57,6 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-28279 | 7.3 | HIGH | jmpsec | osctrl | * | ADJACENT_NETWORK | HIGH | NA | UPDATED (2026-02-28T01:17:13.797) |
 | CVE-2026-3037 | 8.0 | HIGH | copeland | xweb_500b_pro | - | NETWORK | HIGH | NA | UPDATED (2026-02-28T01:13:53.703) |
 | CVE-2025-11252 | 9.8 | CRITICAL | signumtte | windesk.fm | * | NETWORK | LOW | NA | UPDATED (2026-02-28T01:09:31.663) |
+| CVE-2026-2471 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-02-28T07:15:57.677) |
+| CVE-2025-13673 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-28T08:15:58.317) |
 
