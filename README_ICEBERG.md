@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-03 07:03:23
+**Last Updated (UTC):** 2026-03-03 13:16:00
 
 _Auto-generated. Do not edit manually._
 
@@ -21,6 +21,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-1229 | 9.8 | CRITICAL | cloudflare | circl | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:29:54.160) |
 | CVE-2024-1524 | 7.7 | HIGH | wso2 | api_manager | * | NETWORK | HIGH | NA | UPDATED (2026-03-03T00:32:34.177) |
 | CVE-2025-11165 | 9.9 | CRITICAL | dotcms | dotcms | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:34:31.247) |
+| CVE-2026-20416 | 7.2 | HIGH | mediatek | mt6991 | - | NETWORK | LOW | NA | UPDATED (2026-03-03T13:14:12.173) |
+| CVE-2026-20423 | 7.1 | HIGH | mediatek | mt7902 | - | LOCAL | LOW | NA | UPDATED (2026-03-03T13:12:27.570) |
 | CVE-2026-24107 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-03T02:16:08.330) |
 | CVE-2026-24108 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-03T02:16:08.523) |
 | CVE-2026-1566 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T00:15:55.133) |
@@ -28,4 +30,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-2448 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T02:16:10.687) |
 | CVE-2026-2628 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T02:16:10.873) |
 | CVE-2026-1492 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T05:17:19.197) |
+| CVE-2025-12345 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T07:16:09.467) |
+| CVE-2026-22886 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T10:16:06.267) |
+| CVE-2026-2568 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T10:16:06.473) |
 
