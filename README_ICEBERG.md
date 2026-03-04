@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-03 13:16:00
+**Last Updated (UTC):** 2026-03-04 02:42:40
 
 _Auto-generated. Do not edit manually._
 
@@ -14,23 +14,14 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-66480 | 9.8 | CRITICAL | wildfirechat | im-server | * | NETWORK | LOW | NA | UPDATED (2026-03-03T01:01:32.913) |
-| CVE-2025-12774 | 7.5 | HIGH | broadcom | sannav | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:58:31.883) |
-| CVE-2019-25329 | 7.5 | HIGH | internet-soft | ftp_navigator | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:21:02.917) |
-| CVE-2026-3025 | 7.3 | HIGH | shuoren | smart_heating_integrated_management_platform | 1.0.0 | NETWORK | LOW | NA | UPDATED (2026-03-03T00:26:44.143) |
-| CVE-2026-1229 | 9.8 | CRITICAL | cloudflare | circl | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:29:54.160) |
-| CVE-2024-1524 | 7.7 | HIGH | wso2 | api_manager | * | NETWORK | HIGH | NA | UPDATED (2026-03-03T00:32:34.177) |
-| CVE-2025-11165 | 9.9 | CRITICAL | dotcms | dotcms | * | NETWORK | LOW | NA | UPDATED (2026-03-03T00:34:31.247) |
-| CVE-2026-20416 | 7.2 | HIGH | mediatek | mt6991 | - | NETWORK | LOW | NA | UPDATED (2026-03-03T13:14:12.173) |
-| CVE-2026-20423 | 7.1 | HIGH | mediatek | mt7902 | - | LOCAL | LOW | NA | UPDATED (2026-03-03T13:12:27.570) |
-| CVE-2026-24107 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-03T02:16:08.330) |
-| CVE-2026-24108 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-03T02:16:08.523) |
-| CVE-2026-1566 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T00:15:55.133) |
-| CVE-2026-2269 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T02:16:10.510) |
-| CVE-2026-2448 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T02:16:10.687) |
-| CVE-2026-2628 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T02:16:10.873) |
-| CVE-2026-1492 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T05:17:19.197) |
-| CVE-2025-12345 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T07:16:09.467) |
-| CVE-2026-22886 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T10:16:06.267) |
-| CVE-2026-2568 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-03T10:16:06.473) |
+| CVE-2026-2474 | 7.5 | HIGH | ddick | crypt\ | \ | NETWORK | LOW | NA | UPDATED (2026-03-04T02:27:15.217) |
+| CVE-2025-15578 | 9.8 | CRITICAL | teejay | maypole | * | NETWORK | LOW | NA | UPDATED (2026-03-04T02:26:51.280) |
+| CVE-2026-2588 | 9.1 | CRITICAL | timlegge | crypt\ | \ | NETWORK | LOW | NA | UPDATED (2026-03-04T02:23:33.820) |
+| CVE-2024-58041 | 9.1 | CRITICAL | wonko | smolder | * | NETWORK | LOW | NA | UPDATED (2026-03-04T02:22:32.640) |
+| CVE-2019-25495 | 8.2 | HIGH | oscommerce | oscommerce | 2.3.4.1 | NETWORK | LOW | NA | UPDATED (2026-03-04T02:14:42.250) |
+| CVE-2019-25496 | 8.2 | HIGH | oscommerce | oscommerce | 2.3.4.1 | NETWORK | LOW | NA | UPDATED (2026-03-04T02:14:12.527) |
+| CVE-2019-25497 | 8.2 | HIGH | oscommerce | oscommerce | * | NETWORK | LOW | NA | UPDATED (2026-03-04T02:09:46.710) |
+| CVE-2026-27751 | 9.8 | CRITICAL | sodola-network | sl902-swtgw124as | - | NETWORK | LOW | NA | UPDATED (2026-03-04T02:08:00.523) |
+| CVE-2026-1273 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-04T02:15:53.573) |
+| CVE-2026-1945 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-04T02:15:53.970) |
 
