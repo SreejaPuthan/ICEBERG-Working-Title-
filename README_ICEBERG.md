@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-04 07:00:13
+**Last Updated (UTC):** 2026-03-04 13:15:01
 
 _Auto-generated. Do not edit manually._
 
@@ -9,11 +9,13 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-02-23T02:00:02.077) |
+| CVE-2026-21385 | 7.8 | HIGH | qualcomm | sm7675 | - | LOCAL | LOW | NA | UPDATED (2026-03-04T13:09:30.647) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-2617 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-04T12:16:01.437) |
 | CVE-2026-2474 | 7.5 | HIGH | ddick | crypt\ | \ | NETWORK | LOW | NA | UPDATED (2026-03-04T02:27:15.217) |
 | CVE-2025-15578 | 9.8 | CRITICAL | teejay | maypole | * | NETWORK | LOW | NA | UPDATED (2026-03-04T02:26:51.280) |
 | CVE-2026-2588 | 9.1 | CRITICAL | timlegge | crypt\ | \ | NETWORK | LOW | NA | UPDATED (2026-03-04T02:23:33.820) |
@@ -31,4 +33,6 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-27751 | 9.8 | CRITICAL | sodola-network | sl902-swtgw124as | - | NETWORK | LOW | NA | UPDATED (2026-03-04T02:08:00.523) |
 | CVE-2026-1273 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-04T02:15:53.573) |
 | CVE-2026-1945 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-04T02:15:53.970) |
+| CVE-2026-3094 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-04T09:15:58.457) |
+| CVE-2023-7337 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-04T10:16:06.683) |
 
