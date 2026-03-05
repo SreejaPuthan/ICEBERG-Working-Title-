@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-05 02:45:40
+**Last Updated (UTC):** 2026-03-05 07:03:21
 
 _Auto-generated. Do not edit manually._
 
@@ -15,6 +15,7 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2019-25434 | 7.5 | HIGH | nsasoft | spotauditor | * | NETWORK | LOW | NA | UPDATED (2026-03-05T01:05:22.890) |
+| CVE-2026-28370 | 9.1 | CRITICAL | openstack | vitrage | * | NETWORK | LOW | NA | UPDATED (2026-03-05T05:16:37.117) |
 | CVE-2026-0980 | 8.3 | HIGH | logicminds | rubyipmi | * | NETWORK | LOW | NA | UPDATED (2026-03-05T02:04:57.153) |
 | CVE-2025-69437 | 8.7 | HIGH | publiccms | publiccms | * | NETWORK | LOW | NA | UPDATED (2026-03-05T02:09:43.133) |
 | CVE-2026-3395 | 7.3 | HIGH | max-3000 | maxsite_cms | * | NETWORK | LOW | NA | UPDATED (2026-03-05T01:24:40.483) |
@@ -23,4 +24,5 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-63911 | 7.2 | HIGH | cohesity | tranzman | 4.0 | NETWORK | LOW | NA | UPDATED (2026-03-05T00:24:13.197) |
 | CVE-2025-63912 | 7.5 | HIGH | cohesity | tranzman | 4.0 | NETWORK | LOW | NA | UPDATED (2026-03-05T00:19:13.620) |
 | CVE-2025-67840 | 7.2 | HIGH | cohesity | tranzman | 4.0 | NETWORK | LOW | NA | UPDATED (2026-03-05T00:15:59.597) |
+| CVE-2026-2365 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-05T04:15:56.783) |
 
